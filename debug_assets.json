@@ -1,9 +1,9 @@
 {
     "assetbundles": [
         {
-            "url": "https://raw.githubusercontent.com/ykundesu/SuperNewCosmeticsAssetBundlesPreview/refs/heads/main//cosmeticsbundle.bundle",
+            "url": "https://raw.githubusercontent.com/ykundesu/SuperNewCosmeticsAssetBundlesPreview/refs/heads/main/cosmeticsbundle.bundle",
             "hash": "aaabc",
-            "url_android": "https://raw.githubusercontent.com/ykundesu/SuperNewCosmeticsAssetBundlesPreview/refs/heads/main//cosmeticsbundle_android.bundle",
+            "url_android": "https://raw.githubusercontent.com/ykundesu/SuperNewCosmeticsAssetBundlesPreview/refs/heads/main/cosmeticsbundle_android.bundle",
             "hash_android": "aaabc"
         }
     ]
